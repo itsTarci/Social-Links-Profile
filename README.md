@@ -1,4 +1,4 @@
-# Social Links Profile project view
+# Social Links Profile - Project
 ## Languages used
 - HTML
 - CSS
