@@ -1,0 +1,10 @@
+@media (max-width: 500px) {
+  .profile-card {
+    margin: 50px;
+    padding: 20px;
+  }
+  .profile-card .social-links {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+}
